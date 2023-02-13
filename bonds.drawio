@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:23:01.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="BPkwjJbyCXW7Bsc9x_zk" version="20.8.5" type="github">
+  <diagram id="ir38s14U9JFHiZt4-p83" name="Bonds">
+    <mxGraphModel dx="954" dy="571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e97bduhnemeI5NklFYPc-1" value="Decentralized bonds" style="text;html=1;strokeColor=#d79b00;fillColor=#ffcd28;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;gradientColor=#ffa500;fontFamily=Comic Sans MS;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="93" y="40" width="209" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="e97bduhnemeI5NklFYPc-6" value="Bonds" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;startSize=45;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="101.5" y="142" width="192" height="597" as="geometry" />
+        </mxCell>
+        <mxCell id="e97bduhnemeI5NklFYPc-7" value="- Name&lt;br&gt;&lt;br&gt;- Isin&lt;br&gt;&lt;br&gt;- Symbol&lt;br&gt;&lt;br&gt;- Par value&lt;br&gt;&lt;br&gt;- denomination&lt;br&gt;&lt;br&gt;- Issue Volume&lt;br&gt;&lt;br&gt;- Coupon rate&lt;br&gt;&lt;br&gt;- Coupon type&lt;br&gt;&lt;br&gt;- Currency&lt;br&gt;&lt;br&gt;- Maturity date&lt;br&gt;&lt;br&gt;- Carbon credit" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Helvetica;" parent="e97bduhnemeI5NklFYPc-6" vertex="1">
+          <mxGeometry x="17" y="69" width="150" height="516" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
