@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T18:02:16.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RRka9dpSYQJ2Wbv4ei9G" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T12:49:12.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ee2GWnbVfLeODRadGgMI" version="20.8.5" type="github">
   <diagram id="ir38s14U9JFHiZt4-p83" name="Bonds">
-    <mxGraphModel dx="954" dy="571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,6 +106,9 @@
         </mxCell>
         <mxCell id="w39aNyOYpA3rd78RK-Cl-52" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;shadow=1;fontFamily=Helvetica;fontSize=15;fontColor=#660000;" vertex="1" parent="w39aNyOYpA3rd78RK-Cl-55">
           <mxGeometry x="116" y="18" width="35.5" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="w39aNyOYpA3rd78RK-Cl-56" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#000000&quot;&gt;The example above shows a 10 years, USDC denominated, semi-annual, 5% corporate bonds issued by Sam Corp,&lt;br&gt;&lt;br&gt;with 1,000,000 issued volume.&amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=#660000;spacingBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="659" y="658" width="797" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
