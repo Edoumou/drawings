@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T01:21:19.515Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.6" etag="YQw3jpaCph2olbFVqhov" type="github"><diagram name="Page-1" id="gaUyGM8IAADZF5PVYL19">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-31T02:22:37.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0CKp9NnDYzFa4BAQM9oi" version="21.0.6" type="github">
+  <diagram name="Page-1" id="gaUyGM8IAADZF5PVYL19">
+    <mxGraphModel dx="1434" dy="807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xzhzrzbfn5W9RqFc-OKv-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B8FB8;gradientColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="911" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhzrzbfn5W9RqFc-OKv-17" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Food processing&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="556" y="182" width="134" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhzrzbfn5W9RqFc-OKv-20" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Farm&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="318" y="182" width="134" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhzrzbfn5W9RqFc-OKv-21" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Distribution&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="794" y="182" width="134" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="xzhzrzbfn5W9RqFc-OKv-22" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Retail restaurants&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="182" width="134" height="134" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
