@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T19:33:41.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yeTWAYeLsAQnOyy5uijg" version="24.3.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-02T19:35:49.442Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LEbEWi4iGzOOi4BeTlOj" version="24.3.1" type="github" pages="5">
   <diagram name="Page-1" id="IeimgIaIVfG2oiWaPAk_">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
@@ -684,7 +684,7 @@
         <mxCell id="ACYzF310pLbCwJfx0RqH-84" value="&lt;b&gt;SDC&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="ACYzF310pLbCwJfx0RqH-58">
           <mxGeometry x="151" y="109" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="ACYzF310pLbCwJfx0RqH-63" value="ERC-7586&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;smart contract&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;for the 10-year USD IRS position&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="ACYzF310pLbCwJfx0RqH-63" value="ERC-7586&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;smart contract&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;for the 10-year USD IRS position&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#A26B6B;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="665" y="529" width="171" height="101" as="geometry" />
         </mxCell>
         <mxCell id="ACYzF310pLbCwJfx0RqH-67" value="Deploy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
