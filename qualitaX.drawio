@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-30T09:13:22.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="XpjIA4dBD-dscf5mSDR0" version="24.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-30T22:08:18.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_4zf533DQpmW46KWzEs4" version="24.7.1" type="github" pages="3">
   <diagram name="Flow" id="JIEcCvsyP3tLWZqYlDOC">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
@@ -608,7 +608,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q-W4j1zlVCkW3rqwABzk" name="Page-3">
-    <mxGraphModel dx="1444" dy="801" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="801" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -750,7 +750,7 @@
         <mxCell id="CAOI3DXPnNP9vFs1Qy6y-46" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;&quot;&gt;An trusted external source must be used to fetch valuation data. Both parties must agree on using a unique source&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Once valuation data have been fetched, they must be sent to the SDC through a trusted oracle network&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="398" y="579" width="278" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="CAOI3DXPnNP9vFs1Qy6y-47" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;&quot;&gt;Once data have been made available in the SDC through the oracle, the contract calculate the net variation margin&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;In case the margin posted by a counterparty has become insufficient, the initial margin must be used to fill the gap&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="CAOI3DXPnNP9vFs1Qy6y-47" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;&quot;&gt;Once data have been made available in the SDC through the oracle, the contract calculates the net variation margin&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;In case the margin posted by a counterparty has become insufficient, the initial margin must be used to fill the gap&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="736.75" y="579" width="278" height="198" as="geometry" />
         </mxCell>
         <mxCell id="CAOI3DXPnNP9vFs1Qy6y-48" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;&quot;&gt;The SDC then transfers the net variation margin to the account that has realized a profit for this settlement cycle&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;In case the initial margin has been used to fill a margin gap, counterparties should be invited to complete their initial margin&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
