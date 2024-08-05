@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-05T09:44:09.997Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="sn_3cWLevPk59T5EA_PU" version="24.7.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-08-05T09:45:01.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EhIKUUOmXvGEYsXcvM5i" version="24.7.1" type="github" pages="5">
   <diagram name="Flow" id="JIEcCvsyP3tLWZqYlDOC">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
@@ -278,7 +278,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LO6bHJi3nZoiC9mwhHFk" name="Architecture">
-    <mxGraphModel dx="1437" dy="1601" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1491" dy="1601" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,7 +469,7 @@
         <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-133" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; Provide updated valuation&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=#fff2cc;" connectable="0" vertex="1" parent="Fk7-EAaNJhS-Cf2a6_KV-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-134" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Calculate daily profit and the winner account wallet&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Profit = Fixed rate - Floating rate&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Account Wallet = Profit &amp;gt; 0 ? Wallet B : Wallet A&lt;/b&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-134" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Calculate daily profit and the winner account wallet&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Profit = Fixed rate - Floating rate&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Account Wallet = Profit &amp;gt; 0 ? Wallet A : Wallet B&lt;/b&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="730.5" y="529" width="343" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-135" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -496,7 +496,7 @@
         <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-144" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Fixed rate payer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1276" y="212" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-146" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Profit &amp;gt; 0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-146" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Profit &amp;lt; 0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1041" y="627" width="62" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-147" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Floating Rate = CESR + spread&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -544,7 +544,7 @@
         <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-159" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; Monitor via API or UI&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=#fff2cc;" connectable="0" vertex="1" parent="Fk7-EAaNJhS-Cf2a6_KV-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-161" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Profit &amp;lt; 0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-161" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Profit &amp;gt; 0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="544.5" y="601" width="62" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Fk7-EAaNJhS-Cf2a6_KV-163" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Daily Valuation and Settlement&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -914,7 +914,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1kQo1_6FZN3rYMuVg_3a" name="PoC">
-    <mxGraphModel dx="1420" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
