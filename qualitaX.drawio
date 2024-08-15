@@ -1256,11 +1256,14 @@
         <mxCell id="6JKJ9DM7HBGWfsOjS5hL-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Inheritance&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="945" y="12" width="110" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="TzbBQZ_y39cXuKQGcaih-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6JKJ9DM7HBGWfsOjS5hL-15" target="6JKJ9DM7HBGWfsOjS5hL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6JKJ9DM7HBGWfsOjS5hL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6JKJ9DM7HBGWfsOjS5hL-15" target="6JKJ9DM7HBGWfsOjS5hL-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6JKJ9DM7HBGWfsOjS5hL-15" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Fixed Rate Payer&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Floating Rate Payer&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px; line-height: 130%;&quot;&gt;&lt;li&gt;Oracle Contract For Reference Rate&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Settlement Currency&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;day Count Basis&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;SwapRate&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Spread&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Notional Amount&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Settlement Frequency&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Starting Date&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Maturity Date&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Settlement Dates&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="163" width="260" height="496" as="geometry" />
+          <mxGeometry x="1118.5" y="163" width="260" height="496" as="geometry" />
         </mxCell>
         <mxCell id="6JKJ9DM7HBGWfsOjS5hL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6JKJ9DM7HBGWfsOjS5hL-19" target="6JKJ9DM7HBGWfsOjS5hL-5">
           <mxGeometry relative="1" as="geometry" />
