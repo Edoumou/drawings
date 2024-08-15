@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-13T08:27:59.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9bkapb4i-Cp3MW1cZ7WZ" version="24.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.7.6" pages="6">
   <diagram name="Flow" id="JIEcCvsyP3tLWZqYlDOC">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
@@ -1227,11 +1227,47 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EXO6zw_4AM0_RzK4nQWu" name="Page-6">
-    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+  <diagram id="EXO6zw_4AM0_RzK4nQWu" name="Smart Contracts">
+    <mxGraphModel dx="1434" dy="801" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="24" y="37" width="489" height="614" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-1" value="&lt;p style=&quot;line-height: 57%;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ERC-6123&lt;/font&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Smart Derivative Contract&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&amp;nbsp;Derivative settlement&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Risk management&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Trade lifecycle&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=10;" vertex="1" parent="6JKJ9DM7HBGWfsOjS5hL-4">
+          <mxGeometry width="489" height="614" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-2" value="&lt;p style=&quot;line-height: 57%;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ERC-7586&lt;/font&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Interest Rate Swap Contract&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;IRS terms&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;IRS tokenization&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=11;" vertex="1" parent="6JKJ9DM7HBGWfsOjS5hL-4">
+          <mxGeometry x="79" y="302" width="331" height="293" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-3" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;IRSStorage&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li&gt;ERC-20 for IRS swap tokenization&lt;/li&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6JKJ9DM7HBGWfsOjS5hL-4">
+          <mxGeometry x="107" y="510" width="275" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ERC-6123&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="685" y="37" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6JKJ9DM7HBGWfsOjS5hL-8" target="6JKJ9DM7HBGWfsOjS5hL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ERC-7586&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1183" y="37" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Inheritance&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="12" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6JKJ9DM7HBGWfsOjS5hL-15" target="6JKJ9DM7HBGWfsOjS5hL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-15" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Fixed Rate Payer&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Floating Rate Payer&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px; line-height: 130%;&quot;&gt;&lt;li&gt;Oracle Contract For Reference Rate&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Settlement Currency&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;day Count Basis&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;SwapRate&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Spread&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Notional Amount&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Settlement Frequency&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Starting Date&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Maturity Date&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Settlement Dates&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="163" width="260" height="496" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6JKJ9DM7HBGWfsOjS5hL-19" target="6JKJ9DM7HBGWfsOjS5hL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6JKJ9DM7HBGWfsOjS5hL-19" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Trade ID&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Trade State&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Termination Fee&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&amp;nbsp;Margins&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Pending Requests&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;align=left;" vertex="1" parent="1">
+          <mxGeometry x="627" y="163" width="247" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
