@@ -1275,7 +1275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3OldrMW-RIMOcbONhJ5S" name="Page-7">
-    <mxGraphModel dx="1509" dy="843" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="641" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1289,7 +1289,7 @@
           <mxGeometry x="189" y="6.659999999999997" width="24.5" height="32.67" as="geometry" />
         </mxCell>
         <mxCell id="hf9P-pQH5Hflrgc_XzQn-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="634" y="172" width="233" height="277" as="geometry" />
+          <mxGeometry x="634" y="172" width="233" height="298.68" as="geometry" />
         </mxCell>
         <mxCell id="hf9P-pQH5Hflrgc_XzQn-8" value="" style="group" vertex="1" connectable="0" parent="hf9P-pQH5Hflrgc_XzQn-13">
           <mxGeometry width="233" height="46" as="geometry" />
@@ -1305,6 +1305,9 @@
         </mxCell>
         <mxCell id="hf9P-pQH5Hflrgc_XzQn-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/hand-pointing-thin-128.png;imageBorder=none;" vertex="1" parent="hf9P-pQH5Hflrgc_XzQn-13">
           <mxGeometry x="149.5" y="230" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=66;flipH=0;flipV=1;" vertex="1" parent="hf9P-pQH5Hflrgc_XzQn-13">
+          <mxGeometry x="14.36" y="197" width="167" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hf9P-pQH5Hflrgc_XzQn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hf9P-pQH5Hflrgc_XzQn-16" target="hf9P-pQH5Hflrgc_XzQn-19">
           <mxGeometry relative="1" as="geometry" />
@@ -1332,6 +1335,15 @@
         </mxCell>
         <mxCell id="hf9P-pQH5Hflrgc_XzQn-28" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;During deployment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="927" y="574" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Smart Derivative Contract&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="467" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-31" value="&lt;p style=&quot;line-height: 90%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Calculated off-chain from&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 90%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;CESR forward rates&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="473.5" y="400" width="180.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=1.5;dx=42;notch=0;arrowHead=26.8;rounded=1;rotation=-90;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="554" y="459" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
