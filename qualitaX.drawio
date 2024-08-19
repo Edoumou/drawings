@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.7.6" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.7.6" pages="7">
   <diagram name="Flow" id="JIEcCvsyP3tLWZqYlDOC">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
@@ -1228,7 +1228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EXO6zw_4AM0_RzK4nQWu" name="Smart Contracts">
-    <mxGraphModel dx="1434" dy="801" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1270,6 +1270,68 @@
         </mxCell>
         <mxCell id="6JKJ9DM7HBGWfsOjS5hL-19" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Trade ID&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Trade State&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Termination Fee&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&amp;nbsp;Margins&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Pending Requests&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;align=left;" vertex="1" parent="1">
           <mxGeometry x="627" y="163" width="247" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3OldrMW-RIMOcbONhJ5S" name="Page-7">
+    <mxGraphModel dx="1509" dy="843" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="634" y="26" width="233" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-1" value="&amp;nbsp; &amp;nbsp; &lt;font style=&quot;font-size: 15px;&quot;&gt;Select Reference Rate&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="hf9P-pQH5Hflrgc_XzQn-3">
+          <mxGeometry width="233" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-2" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="hf9P-pQH5Hflrgc_XzQn-3">
+          <mxGeometry x="189" y="6.659999999999997" width="24.5" height="32.67" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="634" y="172" width="233" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-8" value="" style="group" vertex="1" connectable="0" parent="hf9P-pQH5Hflrgc_XzQn-13">
+          <mxGeometry width="233" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-9" value="&amp;nbsp; &amp;nbsp; &lt;font style=&quot;font-size: 15px;&quot;&gt;Select Reference Rate&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="hf9P-pQH5Hflrgc_XzQn-8">
+          <mxGeometry width="233" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-10" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="hf9P-pQH5Hflrgc_XzQn-8">
+          <mxGeometry x="189" y="6.659999999999997" width="24.5" height="32.67" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-7" value="&lt;br&gt;&lt;div style=&quot;line-height: 190%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;3M ETH SAPR&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 190%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;6M ETH SAPR&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 190%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;1Y ETH SAPR&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 190%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;2Y ETH SAPR&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 190%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;1M CESR&lt;div style=&quot;line-height: 24.7px;&quot;&gt;6M CESR&lt;/div&gt;&lt;div style=&quot;line-height: 24.7px;&quot;&gt;1Y CESR&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="hf9P-pQH5Hflrgc_XzQn-13">
+          <mxGeometry x="113" y="46" width="120" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/hand-pointing-thin-128.png;imageBorder=none;" vertex="1" parent="hf9P-pQH5Hflrgc_XzQn-13">
+          <mxGeometry x="149.5" y="230" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hf9P-pQH5Hflrgc_XzQn-16" target="hf9P-pQH5Hflrgc_XzQn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; Benchmark:&amp;nbsp; &amp;nbsp;1Y CESR:&amp;nbsp; 5%&lt;/font&gt;&lt;div style=&quot;font-size: 15px; line-height: 220%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; Fixed Rate:&amp;nbsp; 4%&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px; line-height: 220%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; spread:&amp;nbsp; 1%&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="638" y="507" width="225" height="113.04" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; Oracle contract for Benchmark&lt;/font&gt;&lt;div style=&quot;font-size: 15px; line-height: 220%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; Fixed Rate&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px; line-height: 220%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp; &amp;nbsp; spread&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="507" width="240" height="113.04" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-21" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Save data in the SDC contract&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="895.5" y="523" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Step 1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="477" y="34" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-24" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Step 2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="477" y="176" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/hand-pointing-thin-128.png;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="816" y="52" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Step 3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="477" y="541" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hf9P-pQH5Hflrgc_XzQn-28" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;During deployment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="927" y="574" width="152" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
