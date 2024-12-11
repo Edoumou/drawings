@@ -1,23 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="mPtFx5clELZSQjHuAHDO">
-    <mxGraphModel dx="1834" dy="1651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="2634" dy="2051" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zSTqkQONEQnt6rS8sQXK-1" value="&lt;b&gt;Issuer 1&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-242" y="-301" width="30" height="60" as="geometry" />
+          <mxGeometry x="-625" y="-1069" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSTqkQONEQnt6rS8sQXK-2" value="&lt;b&gt;Issuer 2&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="441" y="-233" width="30" height="60" as="geometry" />
+          <mxGeometry x="-625" y="-645" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSTqkQONEQnt6rS8sQXK-7" value="Bond Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-254" y="-716" width="120" height="60" as="geometry" />
+          <mxGeometry x="-670" y="-857" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSTqkQONEQnt6rS8sQXK-8" value="Interest Rate Swap Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="151" y="-726" width="169" height="60" as="geometry" />
+          <mxGeometry x="-943" y="-857" width="169" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSTqkQONEQnt6rS8sQXK-9" value="Credit Default Swap Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="-726" width="171" height="60" as="geometry" />
+          <mxGeometry x="108" y="-857" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSTqkQONEQnt6rS8sQXK-10" value="Aave Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-186" y="-542" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSTqkQONEQnt6rS8sQXK-11" value="Uniswap Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-186" y="-1151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSTqkQONEQnt6rS8sQXK-16" value="&lt;b&gt;Investor 1&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-402" y="-1151" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSTqkQONEQnt6rS8sQXK-17" value="&lt;b&gt;Investor 2&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-402" y="-984" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSTqkQONEQnt6rS8sQXK-23" value="&lt;b&gt;Investor 3&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-402" y="-739" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSTqkQONEQnt6rS8sQXK-25" value="&lt;b&gt;Investor 4&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-402" y="-552" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
