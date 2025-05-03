@@ -4,16 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="b0HriobLCfODPX51pv7s-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b0HriobLCfODPX51pv7s-1" target="b0HriobLCfODPX51pv7s-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="b0HriobLCfODPX51pv7s-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;CeDeFi&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="108" y="-184" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b0HriobLCfODPX51pv7s-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-466.5" y="10" width="1269" height="498" as="geometry" />
         </mxCell>
-        <mxCell id="b0HriobLCfODPX51pv7s-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b0HriobLCfODPX51pv7s-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-447" y="25.5" width="310" height="467" as="geometry" />
         </mxCell>
         <mxCell id="b0HriobLCfODPX51pv7s-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,13 +34,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b0HriobLCfODPX51pv7s-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Bonds&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-343.5" y="48" width="103" height="35" as="geometry" />
+          <mxGeometry x="-343.5" y="31" width="103" height="35" as="geometry" />
         </mxCell>
         <mxCell id="b0HriobLCfODPX51pv7s-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Loans&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="116.5" y="48" width="103" height="35" as="geometry" />
+          <mxGeometry x="116.5" y="31" width="103" height="35" as="geometry" />
         </mxCell>
         <mxCell id="b0HriobLCfODPX51pv7s-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;RWA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="586" y="48" width="103" height="35" as="geometry" />
+          <mxGeometry x="583" y="31" width="103" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="b0HriobLCfODPX51pv7s-16" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Approved issuers can create a Bond issue&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Approved Investors can purchase bonds in the primary market&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Bond Issuer or CeDeFi manager issue bonds to investors&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Investors can trade bonds in the secondary market&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Regular coupon payment based on the principal invested&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Principal repayment at maturity&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#e6d0de;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="-427" y="85" width="277" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="b0HriobLCfODPX51pv7s-17" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Registered issuers can create a Loan by setting the following params: min amount, max amount, min lock period, etc.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Registered Investors can invest by submitting their investment amount&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Loan Issuer or CeDeFi manager issues the Loan LP tokens to investors if the loan is deployed&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Investors can trade loans in the secondary market&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Regular Yield payment based on the amount of LP tokens owned&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="29.5" y="85" width="277" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="b0HriobLCfODPX51pv7s-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b0HriobLCfODPX51pv7s-1" target="b0HriobLCfODPX51pv7s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0HriobLCfODPX51pv7s-18" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Registered issuers can create a RWA issue&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Registered Investors can purchase RWA in the primary market&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;RWA Issuer or CeDeFi manager issue RWA tokens to investors&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Investors can trade RWA in the secondary market&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Regular coupon, dividend income payment&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="496" y="85" width="277" height="384" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
