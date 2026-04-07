@@ -1432,7 +1432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Aperta Vault" id="B7p7gp0-NHW9IvdZeLUL">
-    <mxGraphModel dx="1561" dy="873" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1500" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
